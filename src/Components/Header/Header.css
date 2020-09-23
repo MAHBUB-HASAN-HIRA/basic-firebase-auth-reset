@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+}
+nav{
+    background-color: black;
+}
+nav .nav_link{
+    display: inline;
+    text-decoration: none;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    margin: 0 10px;
+    padding: 5px;
+}
+nav .nav_link:hover{
+    background-color: gray;
+}

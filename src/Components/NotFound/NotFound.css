@@ -1,0 +1,6 @@
+.not_found{
+    text-align: center;
+}
+.not_found h1, h2{
+    color: red;
+}
